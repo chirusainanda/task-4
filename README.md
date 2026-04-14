@@ -20,7 +20,9 @@ Visualize monthly profit trends across product categories over time to identify 
 - Both categories show consistent seasonality with higher profits mid-year and year-end
 - Overall profit trend shows **growth from 2020 to 2023**
 
-- Dashboard 2 — Agent Performance Analysis (`venky.pdf`)
+  
+
+ Dashboard 2 — Agent Performance Analysis (`venky.pdf`)
 
 ### Dataset
 `Product_Sales.csv` — Call center records with 9,939 rows across 11 agents, tracking calls picked up and products sold.
